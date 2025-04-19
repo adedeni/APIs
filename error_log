@@ -1,0 +1,433 @@
+[21-Nov-2024 12:05:18 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "basicData", expecting "]" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 98
+[21-Nov-2024 12:09:12 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "basicData", expecting "]" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 98
+[21-Nov-2024 12:25:51 UTC] PHP Warning:  Undefined array key "matricNumber" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 7
+[21-Nov-2024 12:25:51 UTC] PHP Warning:  Undefined array key "studentId" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 8
+[21-Nov-2024 12:28:52 UTC] PHP Warning:  Undefined array key "matricNumber" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 7
+[21-Nov-2024 12:28:52 UTC] PHP Warning:  Undefined array key "studentId" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 8
+[21-Nov-2024 12:31:01 UTC] PHP Warning:  Undefined array key "matricNumber" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 7
+[21-Nov-2024 12:31:01 UTC] PHP Warning:  Undefined array key "studentId" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 8
+[21-Nov-2024 12:31:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 30
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined array key "matricNumber" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 7
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined array key "studentId" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 8
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined array key "secretKey" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined array key "cgpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined array key "gpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 11
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined array key "age" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 12
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined array key "level" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 13
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined array key "department" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 14
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined array key "state" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 15
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined array key "gender" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 16
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined array key "extraCurricular" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 17
+[21-Nov-2024 12:32:01 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:32:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(19): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined array key "matricNumber" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 7
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined array key "studentId" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 8
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined array key "secretKey" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined array key "cgpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined array key "gpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 11
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined array key "age" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 12
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined array key "level" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 13
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined array key "department" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 14
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined array key "state" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 15
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined array key "gender" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 16
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined array key "extraCurricular" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 17
+[21-Nov-2024 12:44:23 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:44:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(19): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined array key "matricNumber" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 7
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined array key "studentId" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 8
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined array key "secretKey" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined array key "cgpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined array key "gpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 11
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined array key "age" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 12
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined array key "level" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 13
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined array key "department" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 14
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined array key "state" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 15
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined array key "gender" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 16
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined array key "extraCurricular" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 17
+[21-Nov-2024 12:45:03 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:45:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(19): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined array key "matricNumber" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 7
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined array key "studentId" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 8
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined array key "secretKey" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined array key "cgpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined array key "gpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 11
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined array key "age" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 12
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined array key "level" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 13
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined array key "department" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 14
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined array key "state" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 15
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined array key "gender" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 16
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined array key "extraCurricular" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 17
+[21-Nov-2024 12:46:27 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:46:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(19): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined array key "matricNumber" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 7
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined array key "studentId" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 8
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined array key "secretKey" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined array key "cgpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined array key "gpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 11
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined array key "age" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 12
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined array key "level" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 13
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined array key "department" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 14
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined array key "state" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 15
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined array key "gender" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 16
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined array key "extraCurricular" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 17
+[21-Nov-2024 12:46:33 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:46:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(19): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined array key "matricNumber" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 7
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined array key "studentId" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 8
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined array key "secretKey" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined array key "cgpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined array key "gpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 11
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined array key "age" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 12
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined array key "level" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 13
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined array key "department" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 14
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined array key "state" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 15
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined array key "gender" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 16
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined array key "extraCurricular" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 17
+[21-Nov-2024 12:46:58 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:46:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(19): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined array key "matricNumber" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 7
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined array key "studentId" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 8
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined array key "secretKey" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined array key "cgpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined array key "gpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 11
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined array key "age" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 12
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined array key "level" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 13
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined array key "department" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 14
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined array key "state" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 15
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined array key "gender" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 16
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined array key "extraCurricular" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 17
+[21-Nov-2024 12:57:40 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:57:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(19): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined array key "matricNumber" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined array key "studentId" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined array key "secretKey" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 11
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined array key "cgpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 12
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined array key "gpa" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 13
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined array key "age" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 14
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined array key "level" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 15
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined array key "department" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 16
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined array key "state" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 17
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined array key "gender" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 18
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined array key "extraCurricular" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 19
+[21-Nov-2024 12:59:06 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 12:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(21): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 13:05:33 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php:36
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php(36): number_format('N/A', 2)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 36
+[21-Nov-2024 13:07:26 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php:36
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php(36): number_format('N/A', 2)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 36
+[21-Nov-2024 13:11:22 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 36
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 47
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 47
+[21-Nov-2024 13:11:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 47
+[21-Nov-2024 13:16:20 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 36
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 47
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 47
+[21-Nov-2024 13:16:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 47
+[21-Nov-2024 13:16:41 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 36
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 47
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 47
+[21-Nov-2024 13:16:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 47
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 37
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 38
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 39
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 39
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 45
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 46
+[21-Nov-2024 13:22:30 UTC] PHP Warning:  Undefined variable $convertedScore in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 47
+[21-Nov-2024 13:27:21 UTC] PHP Warning:  Undefined variable $response in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 84
+[21-Nov-2024 13:28:20 UTC] PHP Warning:  Undefined variable $response in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 84
+[21-Nov-2024 13:34:00 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 13:34:37 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 13:35:56 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 13:40:58 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 13:41:36 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 13:59:27 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 14:00:04 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 14:01:09 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 14:06:29 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 14:21:45 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 14:37:17 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 14:37:17 UTC] PHP Parse error:  syntax error, unexpected token "var" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 28
+[21-Nov-2024 14:38:04 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 14:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(26): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 14:38:56 UTC] PHP Parse error:  Unclosed '{' on line 27 in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 50
+[21-Nov-2024 14:39:08 UTC] PHP Parse error:  Unclosed '{' on line 27 in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 50
+[21-Nov-2024 14:39:16 UTC] PHP Parse error:  Unclosed '{' on line 27 in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 50
+[21-Nov-2024 14:39:41 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 14:39:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(26): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 14:39:46 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 14:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(26): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 14:40:43 UTC] PHP Warning:  Undefined variable $matric_no in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 37
+[21-Nov-2024 14:40:43 UTC] PHP Warning:  Undefined variable $student_id in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 37
+[21-Nov-2024 14:40:43 UTC] PHP Warning:  Undefined variable $response in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 98
+[21-Nov-2024 14:41:04 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 14:41:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(26): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 14:41:13 UTC] PHP Warning:  Undefined variable $matric_no in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 37
+[21-Nov-2024 14:41:13 UTC] PHP Warning:  Undefined variable $student_id in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 37
+[21-Nov-2024 14:41:13 UTC] PHP Warning:  Undefined variable $response in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 98
+[21-Nov-2024 14:41:55 UTC] PHP Warning:  Undefined variable $response in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 98
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 34
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 34
+[21-Nov-2024 14:43:05 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 35
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 38
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 38
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 39
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 39
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 14:43:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 34
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 34
+[21-Nov-2024 14:43:14 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 35
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 38
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 38
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 39
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 39
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 14:43:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 34
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 34
+[21-Nov-2024 14:43:41 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 35
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 38
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 38
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 39
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 39
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 40
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 41
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 42
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 43
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Undefined array key "basicData" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 14:43:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 44
+[21-Nov-2024 14:47:48 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 14:47:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(26): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 14:54:48 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[21-Nov-2024 14:54:53 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[21-Nov-2024 14:56:16 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[21-Nov-2024 14:59:05 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[21-Nov-2024 14:59:56 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[21-Nov-2024 15:00:09 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[21-Nov-2024 15:00:32 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[21-Nov-2024 15:02:57 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21-Nov-2024 15:03:34 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21-Nov-2024 15:03:37 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21-Nov-2024 15:03:57 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[21-Nov-2024 15:04:21 UTC] Database error: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+[21-Nov-2024 15:06:17 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 15:06:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(26): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 15:07:37 UTC] PHP Warning:  Undefined variable $pdo in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 15:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php:33
+Stack trace:
+#0 /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php(26): getStudentDetails(NULL, NULL)
+#1 {main}
+  thrown in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/functions.php on line 33
+[21-Nov-2024 15:12:11 UTC] PHP Warning:  Undefined array key "matric_number" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 49
+[21-Nov-2024 15:12:11 UTC] PHP Warning:  Undefined array key "student_id" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 50
+[21-Nov-2024 15:51:02 UTC] PHP Parse error:  Unclosed '{' on line 29 in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 57
+[21-Nov-2024 15:51:02 UTC] PHP Parse error:  Unclosed '{' on line 29 in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipStudent.php on line 57
+[21-Nov-2024 15:57:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 15:57:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 16:00:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 16:00:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 16:00:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 16:00:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 16:01:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 16:01:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 16:01:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 16:01:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[21-Nov-2024 16:02:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[21-Nov-2024 16:02:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:17:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:17:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:18:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:18:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:18:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:18:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:18:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:18:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:19:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:19:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:20:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:20:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:20:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:20:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:20:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:20:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:20:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:21:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:21:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:22:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:22:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:23:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:23:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
+[17-Apr-2025 15:29:41 UTC] PHP Warning:  Undefined array key "matric_no" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 9
+[17-Apr-2025 15:29:41 UTC] PHP Warning:  Undefined array key "student_id" in /home/raolaksc/public_html/adedeni.raolakschool.org/APIs/scholarshipEndPoint.php on line 10
